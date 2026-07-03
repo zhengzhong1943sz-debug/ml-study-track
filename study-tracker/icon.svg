@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ML平台学习营">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+  <rect width="512" height="512" rx="112" fill="#172554"/>
+  <path d="M116 142h280v228H116z" fill="url(#g)" rx="24"/>
+  <path d="M156 322V190h38l62 74 62-74h38v132h-42v-70l-58 67-58-67v70z" fill="white"/>
+</svg>

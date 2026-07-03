@@ -1,0 +1,14 @@
+{
+  "name": "机器学习平台产品设计 · 16周学习营",
+  "short_name": "ML平台学习营",
+  "description": "31章机器学习平台产品设计学习、打卡与测验程序",
+  "start_url": "./#/dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#172554",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
